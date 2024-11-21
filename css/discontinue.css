@@ -1,0 +1,10 @@
+#add_discontinue_function label {
+    margin: 0px;
+}
+#add_discontinue_function {
+    padding: 9px;
+}
+#add_discontinue_function input[type=checkbox] {
+    margin-right: 7px;
+    vertical-align: text-bottom;
+}
